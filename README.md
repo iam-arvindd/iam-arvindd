@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- ====== ANIMATED HEADER BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=ARVIND&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Support%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=60&descSize=20&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
+<!-- ====== CYBERPUNK ANIME HEADER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0010,60:000d1a,100:000000&height=240&text=ARVIND&fontSize=100&fontColor=00E5FF&animation=twinkling&fontAlignY=50&stroke=FF0080&strokeWidth=3&desc=DEVOPS%20ENGINEER&descAlignY=68&descSize=18&descColor=FF0080"/>
 
 <!-- ====== TYPING ANIMATION ====== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=☁️+Cloud+Support+Engineer+by+day...;⚙️+Building+DevOps+skills+by+night;🐳+Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;🔧+Automating+everything+I+touch;🚀+The+transition+is+in+progress...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=⚙️+DOCKER+%7C+KUBERNETES+%7C+TERRAFORM;🔧+ANSIBLE+%7C+JENKINS+%7C+CI%2FCD;☁️+AWS+%7C+AZURE+%7C+LINUX;💻+BASH+%7C+PYTHON+%7C+GIT;🚀+BUILDING.+AUTOMATING.+SHIPPING.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ====== PROFILE VIEWS + FOLLOWERS BADGES ====== -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
+<!-- ====== BADGES ====== -->
+![Profile Views](https://komarev.com/ghpvc/?username=iam-arvindd&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/iam-arvindd?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
 
 </div>
 
@@ -108,15 +108,15 @@ Status     : Actively building. Actively learning. Not stopping.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-arvindd&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-arvindd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam-arvindd&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,26 +124,15 @@ Status     : Actively building. Actively learning. Not stopping.
 
 ## 🐍 Contribution Graph
 
-> ⚠️ **If the snake animation isn't showing**, you need to set up the GitHub Action below. See [Fix Instructions](#-snake-animation-fix).
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-arvindd/iam-arvindd/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-arvindd/iam-arvindd/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/iam-arvindd/iam-arvindd/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
----
-
-## 🐍 Snake Animation Fix
-
-The snake animation requires a **GitHub Actions workflow** to auto-generate the SVG. Here's how to set it up:
-
-1. In your profile repo (`YOUR_USERNAME/YOUR_USERNAME`), create the file:
-   `.github/workflows/snake.yml`
-
-2. Paste this into it:
+> ⚠️ **Snake not showing?** Create `.github/workflows/snake.yml` in your profile repo with the content below, then go to **Actions tab → Run workflow manually** once.
 
 ```yaml
 name: Generate Snake Animation
@@ -172,17 +161,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Go to **Actions** tab → run the workflow manually once → snake appears! ✅
-
 ---
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvind-singhh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arvnd_singhh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-arvindd)
 
 </div>
 
