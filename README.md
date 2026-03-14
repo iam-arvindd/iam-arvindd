@@ -1,107 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f3460,100:16213e&height=250&section=header&text=ARVIND&fontSize=90&fontColor=00d4ff&fontAlignY=45&desc=DevOps%20Engineer%20%E2%80%94%20Cloud%20%7C%20Automation%20%7C%20Infrastructure&descSize=18&descAlignY=68&descColor=a0aec0&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
+<!-- ====== ANIMATED HEADER BANNER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=ARVIND&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Support%20Engineer%20%E2%86%92%20DevOps%20Engineer&descAlignY=60&descSize=20&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=⚡+DevOps+Engineer+%7C+Bengaluru;🐳+Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;🔧+Automating+infrastructure%2C+one+pipeline+at+a+time;☁️+AWS+%7C+Azure+%7C+Linux+%7C+GitHub+Actions;🚀+Building+scalable+systems+that+never+sleep)](https://github.com/iam-arvindd)
-
-</div>
+<!-- ====== TYPING ANIMATION ====== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=☁️+Cloud+Support+Engineer+by+day...;⚙️+Building+DevOps+skills+by+night;🐳+Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;🔧+Automating+everything+I+touch;🚀+The+transition+is+in+progress...)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Profile Views](https://komarev.com/ghpvc/?username=iam-arvindd&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/iam-arvindd)
+<!-- ====== PROFILE VIEWS + FOLLOWERS BADGES ====== -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧠 Who Am I?
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-
-```typescript
-const arvind = {
-  role        : "DevOps Engineer",
-  location    : "Bengaluru, Karnataka 🇮🇳",
-  focus       : ["Cloud Infrastructure", "CI/CD Automation", "Containerisation"],
-  dailyDrivers: ["Docker", "Linux", "Git", "AWS", "Shell Scripting"],
-  currentlyOn : "Building & automating production-grade infrastructure",
-  philosophy  : "If you do it twice, automate it. If it breaks, monitor it.",
-  hobbies     : ["Content Creation 📸", "Crypto Trading 📈", "Tech Blogging ✍️"],
-  available   : true  // open to exciting DevOps opportunities
-};
+```bash
+$ whoami
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```yaml
+Name       : Arvind
+Role       : Cloud Support Engineer → DevOps Engineer (in transition)
+Location   : Bengaluru, India 🇮🇳
+Focus      : CI/CD · Containers · Cloud Infrastructure · Automation
+Status     : Actively building. Actively learning. Not stopping.
+```
+
+> *"I don't just support the cloud — I'm learning to architect, automate, and own it."*
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### ⚙️ DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🖥️ OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 💻 Scripting & Tools
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🗄️ Databases & Monitoring
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🏗️ What I Build & Ship
+## 🚀 Projects
 
-<div align="center">
-
-| 🐳 Containerisation | ⚙️ CI/CD Pipelines | ☁️ Cloud Infrastructure |
-|:---:|:---:|:---:|
-| Dockerising applications, writing production-ready Dockerfiles & Compose stacks | Designing and maintaining automated build → test → deploy pipelines | Provisioning and managing scalable cloud infra on AWS & Azure |
-| **🔁 Automation** | **📊 Monitoring & Observability** | **🔐 Security & Reliability** |
-| Shell scripting & Python automation that eliminates repetitive manual ops | Setting up Prometheus + Grafana dashboards for real-time system visibility | Implementing secure, fault-tolerant infra with rollback strategies |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ CI/CD Pipeline with GitHub Actions</h3>
+      <p>Built an end-to-end CI/CD pipeline for a Node.js app — automated testing, Docker image build, and deploy to AWS EC2 on every push to main.</p>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🏗️ AWS Infrastructure with Terraform</h3>
+      <p>Provisioned a fully automated AWS environment (VPC, EC2, S3, IAM) using Terraform — 100% infrastructure-as-code, zero manual clicks.</p>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐳 Dockerized Microservices App</h3>
+      <p>Containerized a multi-service application using Docker Compose. Configured service networking, volume mounts, and environment-based configs.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>📊 K8s Monitoring Stack (Prometheus + Grafana)</h3>
+      <p>Deployed a Prometheus + Grafana monitoring stack on a local Kubernetes cluster. Created custom dashboards for pod health, CPU, and memory metrics.</p>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,14 +108,15 @@ const arvind = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iam-arvindd&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-arvindd&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117&sideLabels=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-arvindd&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,49 +124,72 @@ const arvind = {
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iam-arvindd/iam-arvindd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🏆 GitHub Trophies
+> ⚠️ **If the snake animation isn't showing**, you need to set up the GitHub Action below. See [Fix Instructions](#-snake-animation-fix).
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iam-arvindd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/iam-arvindd)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Snake Animation Fix
+
+The snake animation requires a **GitHub Actions workflow** to auto-generate the SVG. Here's how to set it up:
+
+1. In your profile repo (`YOUR_USERNAME/YOUR_USERNAME`), create the file:
+   `.github/workflows/snake.yml`
+
+2. Paste this into it:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab → run the workflow manually once → snake appears! ✅
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
 
-[![Arvind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-arvindd&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/iam-arvindd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 <div align="center">
 
-### 💬 A line I live by
-
-> *"Automate everything. Monitor everything. Break nothing in production."* 🚀
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:000000&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
