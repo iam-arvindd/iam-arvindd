@@ -1,0 +1,245 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.r{font-family:'Courier New',monospace;font-size:12px;font-weight:700;animation:fall linear infinite;opacity:0}
+@keyframes fall{0%{transform:translateY(-80px);opacity:0}8%{opacity:1}80%{opacity:.5}100%{transform:translateY(220px);opacity:0}}
+.t{animation:glitch 8s infinite}
+@keyframes glitch{0%,85%,94%,100%{transform:translate(0,0)}86%{transform:translate(-4px,0)}88%{transform:translate(4px,1px)}90%{transform:translate(-2px,-2px)}92%{transform:translate(3px,0)}}
+.s{animation:spulse 2.5s ease-in-out infinite}
+@keyframes spulse{0%,100%{opacity:.75}50%{opacity:1}}
+.c{animation:cpulse 2s ease-in-out infinite}
+@keyframes cpulse{0%,100%{opacity:.5}50%{opacity:1}}
+.gl{animation:glowanim 3s ease-in-out infinite}
+@keyframes glowanim{0%,100%{opacity:.3}50%{opacity:.7}}
+</style>
+
+<!-- Animated gradient for ARVIND -->
+<linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%"><animate attributeName="stop-color" values="#FF0080;#BF00FF;#00E5FF;#FF0080" dur="3s" repeatCount="indefinite"/></stop>
+  <stop offset="50%"><animate attributeName="stop-color" values="#BF00FF;#00E5FF;#FF0080;#BF00FF" dur="3s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#00E5FF;#FF0080;#BF00FF;#00E5FF" dur="3s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<!-- Glow blur filter -->
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="softglow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="8" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+
+<!-- Bottom bar gradient -->
+<linearGradient id="bargrad" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="transparent"/>
+  <stop offset="25%" stop-color="#FF0080"/>
+  <stop offset="50%" stop-color="#BF00FF"/>
+  <stop offset="75%" stop-color="#00E5FF"/>
+  <stop offset="100%" stop-color="transparent"/>
+</linearGradient>
+
+<!-- Clip for bottom bar -->
+<clipPath id="barclip"><rect x="0" y="195" width="860" height="5"/></clipPath>
+</defs>
+
+<!-- Black background -->
+<rect width="860" height="200" fill="#000000"/>
+
+<!-- Subtle grid lines -->
+<g opacity="0.08" stroke-width="0.4">
+  <line x1="0" y1="50" x2="860" y2="50" stroke="#00E5FF"/>
+  <line x1="0" y1="100" x2="860" y2="100" stroke="#FF0080"/>
+  <line x1="0" y1="150" x2="860" y2="150" stroke="#00E5FF"/>
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#00E5FF"/>
+  <line x1="200" y1="0" x2="200" y2="200" stroke="#FF0080"/>
+  <line x1="660" y1="0" x2="660" y2="200" stroke="#FF0080"/>
+  <line x1="760" y1="0" x2="760" y2="200" stroke="#00E5FF"/>
+</g>
+
+<!-- ====== MATRIX RAIN - LEFT SIDE ====== -->
+<g class="r" style="animation-duration:3.8s;animation-delay:0s">
+  <text x="14" y="0" fill="#00E5FF">D</text>
+  <text x="14" y="15" fill="#00E5FF" opacity=".7">O</text>
+  <text x="14" y="30" fill="#00E5FF" opacity=".5">C</text>
+  <text x="14" y="45" fill="#00E5FF" opacity=".3">K</text>
+  <text x="14" y="60" fill="#00E5FF" opacity=".15">E</text>
+</g>
+<g class="r" style="animation-duration:4.5s;animation-delay:1.3s">
+  <text x="40" y="0" fill="#FF0080">K</text>
+  <text x="40" y="15" fill="#FF0080" opacity=".7">8</text>
+  <text x="40" y="30" fill="#FF0080" opacity=".5">S</text>
+</g>
+<g class="r" style="animation-duration:3.2s;animation-delay:0.6s">
+  <text x="66" y="0" fill="#BF00FF">A</text>
+  <text x="66" y="15" fill="#BF00FF" opacity=".7">W</text>
+  <text x="66" y="30" fill="#BF00FF" opacity=".5">S</text>
+</g>
+<g class="r" style="animation-duration:5.1s;animation-delay:2.2s">
+  <text x="94" y="0" fill="#00E5FF">C</text>
+  <text x="94" y="15" fill="#00E5FF" opacity=".7">I</text>
+  <text x="94" y="30" fill="#00E5FF" opacity=".5">/</text>
+  <text x="94" y="45" fill="#00E5FF" opacity=".3">C</text>
+  <text x="94" y="60" fill="#00E5FF" opacity=".15">D</text>
+</g>
+<g class="r" style="animation-duration:4.0s;animation-delay:0.4s">
+  <text x="122" y="0" fill="#FF0080">H</text>
+  <text x="122" y="15" fill="#FF0080" opacity=".7">E</text>
+  <text x="122" y="30" fill="#FF0080" opacity=".5">L</text>
+  <text x="122" y="45" fill="#FF0080" opacity=".3">M</text>
+</g>
+<g class="r" style="animation-duration:3.5s;animation-delay:1.9s">
+  <text x="150" y="0" fill="#BF00FF">G</text>
+  <text x="150" y="15" fill="#BF00FF" opacity=".7">I</text>
+  <text x="150" y="30" fill="#BF00FF" opacity=".5">T</text>
+</g>
+<g class="r" style="animation-duration:4.9s;animation-delay:0.8s">
+  <text x="178" y="0" fill="#00E5FF">L</text>
+  <text x="178" y="15" fill="#00E5FF" opacity=".7">I</text>
+  <text x="178" y="30" fill="#00E5FF" opacity=".5">N</text>
+  <text x="178" y="45" fill="#00E5FF" opacity=".3">U</text>
+  <text x="178" y="60" fill="#00E5FF" opacity=".15">X</text>
+</g>
+<g class="r" style="animation-duration:3.7s;animation-delay:2.8s">
+  <text x="206" y="0" fill="#FF0080">ア</text>
+  <text x="206" y="15" fill="#FF0080" opacity=".6">イ</text>
+  <text x="206" y="30" fill="#FF0080" opacity=".4">ウ</text>
+</g>
+<g class="r" style="animation-duration:4.3s;animation-delay:1.1s">
+  <text x="234" y="0" fill="#BF00FF">J</text>
+  <text x="234" y="15" fill="#BF00FF" opacity=".7">E</text>
+  <text x="234" y="30" fill="#BF00FF" opacity=".5">N</text>
+  <text x="234" y="45" fill="#BF00FF" opacity=".3">K</text>
+</g>
+
+<!-- ====== MATRIX RAIN - RIGHT SIDE ====== -->
+<g class="r" style="animation-duration:4.2s;animation-delay:0.5s">
+  <text x="604" y="0" fill="#BF00FF">エ</text>
+  <text x="604" y="15" fill="#BF00FF" opacity=".6">オ</text>
+  <text x="604" y="30" fill="#BF00FF" opacity=".4">カ</text>
+</g>
+<g class="r" style="animation-duration:3.6s;animation-delay:1.7s">
+  <text x="632" y="0" fill="#FF0080">B</text>
+  <text x="632" y="15" fill="#FF0080" opacity=".7">A</text>
+  <text x="632" y="30" fill="#FF0080" opacity=".5">S</text>
+  <text x="632" y="45" fill="#FF0080" opacity=".3">H</text>
+</g>
+<g class="r" style="animation-duration:5.5s;animation-delay:1.2s">
+  <text x="660" y="0" fill="#BF00FF">A</text>
+  <text x="660" y="15" fill="#BF00FF" opacity=".7">N</text>
+  <text x="660" y="30" fill="#BF00FF" opacity=".5">S</text>
+  <text x="660" y="45" fill="#BF00FF" opacity=".3">I</text>
+  <text x="660" y="60" fill="#BF00FF" opacity=".15">B</text>
+</g>
+<g class="r" style="animation-duration:3.6s;animation-delay:1.0s">
+  <text x="688" y="0" fill="#00E5FF">N</text>
+  <text x="688" y="15" fill="#00E5FF" opacity=".7">G</text>
+  <text x="688" y="30" fill="#00E5FF" opacity=".5">I</text>
+  <text x="688" y="45" fill="#00E5FF" opacity=".3">N</text>
+  <text x="688" y="60" fill="#00E5FF" opacity=".15">X</text>
+</g>
+<g class="r" style="animation-duration:4.4s;animation-delay:2.3s">
+  <text x="716" y="0" fill="#FF0080">V</text>
+  <text x="716" y="15" fill="#FF0080" opacity=".7">A</text>
+  <text x="716" y="30" fill="#FF0080" opacity=".5">U</text>
+  <text x="716" y="45" fill="#FF0080" opacity=".3">L</text>
+  <text x="716" y="60" fill="#FF0080" opacity=".15">T</text>
+</g>
+<g class="r" style="animation-duration:3.9s;animation-delay:1.6s">
+  <text x="744" y="0" fill="#BF00FF">コ</text>
+  <text x="744" y="15" fill="#BF00FF" opacity=".6">サ</text>
+  <text x="744" y="30" fill="#BF00FF" opacity=".4">シ</text>
+</g>
+<g class="r" style="animation-duration:4.7s;animation-delay:0.7s">
+  <text x="772" y="0" fill="#00E5FF">P</text>
+  <text x="772" y="15" fill="#00E5FF" opacity=".7">Y</text>
+  <text x="772" y="30" fill="#00E5FF" opacity=".5">T</text>
+  <text x="772" y="45" fill="#00E5FF" opacity=".3">H</text>
+  <text x="772" y="60" fill="#00E5FF" opacity=".15">O</text>
+</g>
+<g class="r" style="animation-duration:6.0s;animation-delay:3.1s">
+  <text x="800" y="0" fill="#FF0080">T</text>
+  <text x="800" y="15" fill="#FF0080" opacity=".7">E</text>
+  <text x="800" y="30" fill="#FF0080" opacity=".5">R</text>
+  <text x="800" y="45" fill="#FF0080" opacity=".3">R</text>
+</g>
+<g class="r" style="animation-duration:3.3s;animation-delay:1.0s">
+  <text x="828" y="0" fill="#BF00FF">スセ</text>
+  <text x="828" y="15" fill="#BF00FF" opacity=".6">ソタ</text>
+  <text x="828" y="30" fill="#BF00FF" opacity=".4">チツ</text>
+</g>
+<g class="r" style="animation-duration:4.1s;animation-delay:0.3s">
+  <text x="848" y="0" fill="#00E5FF">0</text>
+  <text x="848" y="15" fill="#00E5FF" opacity=".7">1</text>
+  <text x="848" y="30" fill="#FF0080" opacity=".5">1</text>
+  <text x="848" y="45" fill="#00E5FF" opacity=".3">0</text>
+</g>
+
+<!-- Skyline silhouette -->
+<path d="M0,200 L0,172 L18,172 L18,158 L28,158 L28,148 L38,148 L38,158 L48,158 L48,170
+         L65,170 L65,152 L73,152 L73,138 L78,138 L78,132 L83,132 L83,138 L88,138 L88,152 L100,152 L100,170
+         L118,170 L118,160 L128,160 L128,148 L138,148 L138,160 L150,160 L150,172
+         L168,172 L168,162 L178,162
+         L680,162 L680,172
+         L698,172 L698,160 L710,160 L710,148 L720,148 L720,160 L730,160 L730,172
+         L745,172 L745,152 L753,152 L753,138 L758,138 L758,132 L763,132 L763,138 L768,138 L768,152 L778,152 L778,172
+         L795,172 L795,160 L807,160 L807,148 L817,148 L817,160 L828,160 L828,172
+         L842,172 L842,158 L860,158 L860,200 Z"
+fill="#00E5FF" opacity="0.13"/>
+
+<!-- Small window lights on skyline -->
+<rect x="80" y="134" width="3" height="3" fill="#FF0080" opacity="0.9">
+  <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.1s" repeatCount="indefinite"/>
+</rect>
+<rect x="760" y="134" width="3" height="3" fill="#FF0080" opacity="0.9">
+  <animate attributeName="opacity" values="0.2;0.9;0.2" dur="1.8s" repeatCount="indefinite"/>
+</rect>
+<rect x="130" y="150" width="3" height="3" fill="#00E5FF" opacity="0.8">
+  <animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.7s" repeatCount="indefinite"/>
+</rect>
+<rect x="712" y="150" width="3" height="3" fill="#BF00FF" opacity="0.8">
+  <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Corner brackets -->
+<g class="c">
+  <line x1="8" y1="8" x2="32" y2="8" stroke="#FF0080" stroke-width="2.5"/>
+  <line x1="8" y1="8" x2="8" y2="32" stroke="#FF0080" stroke-width="2.5"/>
+  <line x1="852" y1="8" x2="828" y2="8" stroke="#00E5FF" stroke-width="2.5"/>
+  <line x1="852" y1="8" x2="852" y2="32" stroke="#00E5FF" stroke-width="2.5"/>
+  <line x1="8" y1="192" x2="32" y2="192" stroke="#00E5FF" stroke-width="2.5"/>
+  <line x1="8" y1="192" x2="8" y2="168" stroke="#00E5FF" stroke-width="2.5"/>
+  <line x1="852" y1="192" x2="828" y2="192" stroke="#FF0080" stroke-width="2.5"/>
+  <line x1="852" y1="192" x2="852" y2="168" stroke="#FF0080" stroke-width="2.5"/>
+</g>
+
+<!-- ARVIND glow layer (blurred duplicate for glow effect) -->
+<text x="430" y="118" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="82" font-weight="900" letter-spacing="14"
+  fill="#FF0080" opacity="0.2" filter="url(#softglow)" class="gl">ARVIND</text>
+<text x="430" y="118" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="82" font-weight="900" letter-spacing="14"
+  fill="#00E5FF" opacity="0.15" filter="url(#softglow)" class="gl">ARVIND</text>
+
+<!-- ARVIND main text with animated gradient + glitch -->
+<text x="430" y="118" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="82" font-weight="900" letter-spacing="14"
+  fill="url(#lg)" class="t" filter="url(#glow)">ARVIND</text>
+
+<!-- Subtitle -->
+<text x="430" y="152" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="13" font-weight="700"
+  fill="#00E5FF" letter-spacing="9" class="s">DEVOPS ENGINEER</text>
+
+<!-- Blinking cursor -->
+<rect x="598" y="138" width="8" height="14" fill="#FF0080" rx="1">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Animated bottom bar -->
+<g clip-path="url(#barclip)">
+  <rect x="-860" y="195" width="1720" height="5" fill="url(#bargrad)">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="860,0" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>
